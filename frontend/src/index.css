@@ -82,6 +82,13 @@ h3 {
   padding: 0 20px;
 }
 
+.heading h1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
 .heading p {
   color: #828282;
 }
